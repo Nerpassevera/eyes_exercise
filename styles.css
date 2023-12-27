@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #14495e;
+}
+
+.text {
+  position: relative;
+  top: 20%;
+  font-size: 3em;
+  color: aquamarine;
+  font-family: 'Franklin Gothic Heavy';
+  text-align: center;
+  text-decoration: wavy;
+}
+
+.eyes {
+  position: relative;
+  top: 30%;
+  transform: translateY(-50%);
+  width: 100%;
+  text-align: center;
+}
+.eye {
+  width: 240px;
+  height: 120px;
+  background: #fff;
+  display: inline-block;
+  margin: 40px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  border: solid;
+}
+.ball {
+  width: 80px;
+  height: 80px;
+  /* background: #000; */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
