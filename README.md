@@ -26,6 +26,8 @@ cd Eyes-Excersice
 
 * Experience the eyes following your mouse movements.
 
+## Roadmap of future improvements
+The work on this project is over.
 
 ## Author
 Tatiana Trofimova
